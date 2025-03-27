@@ -5,6 +5,7 @@
 - 💬 Ask me about Hardware & Esp32
 - 🏴‍☠️ Ecole 2600 Student
 
+I need to update this page 🐈
 
 ###
 
