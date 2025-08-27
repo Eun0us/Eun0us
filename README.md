@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Espilon
+- 🔭 I’m currently working on Espilon & DVID
 - 📫 How to reach me: eun0us@proton.me
 - 💬 Ask me about Hardware & Esp32
 - 🏴‍☠️ Ecole 2600 Student
