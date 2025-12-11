@@ -24,16 +24,6 @@
 
 ---
 
-### 📊 Languages & Tools
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Eun0us&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-
-</p>
-
-
----
-
 ### 📫 Contact
 
 <p align="center">
