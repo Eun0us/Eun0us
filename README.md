@@ -78,12 +78,15 @@ Interactive shell on ESP32: WiFi scan/sniff, ARP scan, ping, TCP proxy.
 Universal AT firmware for ESP32-C6: WiFi, BLE NimBLE, custom GATT, OTA. Compatible with industrial modules.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[Hardware WU](https://github.com/Eun0us/Hardware-WU)**  
 Hardware & IoT CTF write-ups: PwnMe, ECW and more.
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
