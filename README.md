@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6AC6FF&center=true&vCenter=true&width=650&lines=Embedded+Security+Researcher;ESP32+%7C+Hardware+%7C+IoT+%7C+RF;Creator+of+Espilon+Framework;Hardware+%26+IoT+CTF+Player;Hardware+Hacker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6AC6FF&center=true&vCenter=true&width=650&lines=Embedded+Security+Researcher;ESP32+%7C+Hardware+%7C+IoT+%7C+RF;President+%40Espilon+Association;Hardware+%26+IoT+CTF+Player;Hardware+Hacker" alt="Typing SVG" />
 
 <br/>
 
-[![Ecole 2600](https://img.shields.io/badge/Ecole%202600-Student-6AC6FF?style=flat-square&logoColor=white)](https://ecole2600.com)
-&nbsp;
 [![Write-ups](https://img.shields.io/badge/CTF-Hardware%20%7C%20IoT-0e1c36?style=flat-square)](https://github.com/Eun0us/Hardware-WU)
 &nbsp;
 [![Espilon](https://img.shields.io/badge/Espilon-espilon.net-6AC6FF?style=flat-square)](https://espilon.net)
@@ -16,55 +14,51 @@
 
 ## 👾 About Me
 
-- 🔭 Creator of **[Espilon](https://espilon.net)** — open-source ESP32 framework for IoT/OT security research
+- 🏛️ President of **[Espilon](https://espilon.net)**, association dedicated to embedded, IoT & OT cybersecurity
 - 🔌 Hardware hacker: ESP32/FreeRTOS, RF, BLE, UART, SPI/I2C
-- 🎯 Hardware & IoT CTF player — ex challmaker @NeverHack
+- 🎯 Hardware & IoT CTF player, ex challmaker @NeverHack
 - 🏴‍☠️ Student at **[Ecole 2600](https://ecole2600.com)**
 
 ---
 
-## 📡 Espilon
+## ε Espilon
 
-> Open-source ESP32 framework for IoT/OT security research & education
+> French non-profit (loi 1901) dedicated to embedded systems, IoT & OT cybersecurity
 
-**[espilon.net](https://espilon.net)** — Modular FreeRTOS firmware with encrypted C2, dual WiFi/GPRS connectivity, offensive modules, and a full agent architecture. Built for hardware security researchers.
+**[espilon.net](https://espilon.net)** — Espilon brings together enthusiasts around embedded security research, open-source development and hardware CTF events.
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-**[Firmware](https://git.espilon.net/Eun0us)**  
-FreeRTOS · C · ESP-IDF  
-Modular agent  
-Encrypted comms
+**[Firmware & Tools](https://git.espilon.net/Eun0us)**  
+ESP32 · FreeRTOS · C  
+Modular C2  
+Open-source
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 **[CTF Platform](https://ctf.espilon.net)**  
 Hardware · IoT · OT  
-ESP32 challenges  
+ESP32 Challenges  
 Write-ups included
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-**[Docs](https://docs.espilon.net)**  
-Setup guides  
-API reference  
-Security practices
-
-</td>
-<td width="25%" align="center">
-
-**[Blog](https://blog.espilon.net)**  
+**[Docs & Blog](https://espilon.net)**  
 Firmware analysis  
 Protocol reversing  
-IoT research
+IoT Research
 
 </td>
 </tr>
 </table>
+
+**Goals:** embedded research · open-source · CTF · events · community
+
+> 💼 **Espilon is looking for sponsors** — if you want to support embedded security research and hardware CTFs, reach out: [eun0us@proton.me](mailto:eun0us@proton.me)
 
 ---
 
@@ -80,22 +74,14 @@ Interactive shell on ESP32: WiFi scan/sniff, ARP scan, ping, TCP proxy.
 </td>
 <td width="50%">
 
-**[Espilon Fuzzer](https://github.com/Eun0us/espilon-fuzzer)**  
-ESP32 fuzzing framework with crash detection, web dashboard, and mutation engine.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[DVID](https://github.com/dvid-security)**  
-Damn Vulnerable IoT Device — intentionally vulnerable hardware platform for learning IoT security.
+**[com-at](https://github.com/dvid-security/com-at)**  
+Universal AT firmware for ESP32-C6: WiFi, BLE NimBLE, custom GATT, OTA. Compatible with industrial modules.
 
 </td>
 <td width="50%">
 
 **[Hardware WU](https://github.com/Eun0us/Hardware-WU)**  
-Hardware & IoT CTF write-ups — PwnMe, ECW and more.
+Hardware & IoT CTF write-ups: PwnMe, ECW and more.
 
 </td>
 </tr>
@@ -134,13 +120,11 @@ Hardware & IoT CTF write-ups — PwnMe, ECW and more.
 
 ## 🚩 CTF Write-ups
 
-| CTF | Challenge | Category | Difficulty |
-|-----|-----------|----------|------------|
-| PwnMe CTF 2025 | [3xF1ltr4t0r](https://github.com/Eun0us/Hardware-WU/tree/main/3xF1ltr4t0r) | Hardware | 🟢 Easy |
-| PwnMe CTF 2025 | [Shell-Phone](https://github.com/Eun0us/Hardware-WU/tree/main/Shell-Phone) | Hardware | 🟡 Medium |
-| ECW CTF 2025 | [Lets_All_Love_UART](https://github.com/Eun0us/Hardware-WU/tree/main/Lets_All_Love_UART) | IoT | 🟢 Very Easy |
-| ECW CTF 2025 | [LAIN_Breakcore](https://github.com/Eun0us/Hardware-WU/tree/main/LAIN_BreakCore) | IoT | 🟢 Easy |
-| ECW CTF 2025 | [Lain Vs Knights](https://github.com/Eun0us/Hardware-WU/tree/main/Lain_VS_Knights) | IoT | 🟡 Medium |
+**[Espilon CTF 2026 - Write-ups](https://github.com/Eun0us/ESPILON-CTF-2026-Writeups)**  
+Write-ups from the Espilon CTF challenges: Hardware, IoT, OT, ESP32.
+
+**[Hardware & IoT - External CTFs](https://github.com/Eun0us/Hardware-WU)**  
+PwnMe CTF 2025, ECW CTF 2025: Hardware & IoT challenges.
 
 ---
 
